@@ -89,7 +89,7 @@
 - ![](./images/00030_fake_mask.png)
 
 ## 3 支持和分享
-- 如果您在IML领域的数据集中遇到任何其他问题，请随时在[Discusstions](https://github.com/SunnyHaze/IML-Dataset-Corrections/discussions)中指出它们，并让开源社区共同解决。
+- 如果您在IML领域的数据集中遇到任何其他问题，请随时在[Discussions](https://github.com/SunnyHaze/IML-Dataset-Corrections/discussions)中指出它们，并让开源社区共同解决。
 - 如果您认为我们的工作有价值，请考虑给我们一个Star⭐️并与他人分享。您的支持有助于我们获得更多认可，并鼓励社区内的进一步合作。
 
 ------
