@@ -79,7 +79,7 @@ We also point out some minor errors here, and welcome anyone to raise issues or 
   ```
 - **Solution:** We fixed them and released the download link for these images.
   - For only revised images, download from [Google Drive](https://drive.google.com/file/d/1kZWnj5oWjIOC4oOBRAkXjvmWohao7zrk/view?usp=sharing).
-  - For only revised images, download from [Baidu Netdisk](链接：https://pan.baidu.com/s/1zPpYTOBdZd2qpFxXwCNh9g?pwd=0o9o).
+  - For only revised images, download from [Baidu Netdisk](https://pan.baidu.com/s/1zPpYTOBdZd2qpFxXwCNh9g?pwd=0o9o).
 ### 2.4 IMD2020 dataset
 - **Issue:** There is a single image(`IMD2020/z14/00030_fake.jpg`) with a resolution misalignment problem.
 - **Solution:** We simply upload the revised mask here, you can just download it directly:
